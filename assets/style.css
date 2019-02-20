@@ -1,0 +1,16 @@
+p {
+    font-size: 60;
+    margin-left: 15px;
+}
+
+h1 {
+    font-size: 80px;
+}
+/* classes you put . first */
+.red {
+    color:red;
+}
+/* ids you put # first */
+#blue {
+    color: blue;
+}
